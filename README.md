@@ -1,6 +1,6 @@
 # **Fatih SOYSAL**
 
-#### Bilgisayar & Yazılım Mühendisliği  
+#### Bilgisayar & Yazılım Mühendisi
 
 #### A.R.G.E. , lektronik, Endüstriyel Elektronik, VoIP & Telekomünikasyon
 
@@ -22,20 +22,17 @@
  | Telekomunikasyon | VoIP | Sippy | Voice Master | MediaGateway | Mediatrix | LinkSYS | Cisco ATA  |  PAP2  | WellTech |
  | Elektronik | PIC  | PCB | Foto Etteched PCB 
 
-C# | C++ | Vb.Net | Delhpi | Pascal | JavaScript  | VbScript | GwBasic |  Quick Basic  | mAsm | TSR 
+C# | C++ | Vb.Net | Delhpi | Pascal | JavaScript | Python | VbScript | GwBasic |  Quick Basic  | mAsm | TSR 
 Commodore-64 | LiNUX | Dos | Windows | IIS | Windows Server 2008 .. 2016 | Web Server |
 Dedicate Server
 
+IIS | HTML | CSS | SCss | JavaScript 
+
 MsSql | Firebird | PostGre SQL | RAW TEXT | Typed Data Struct
 
-FiyatGÖR | FiyatGÖR B2B |  Park Assist |  Stok Card Assist  |  ŞAŞ Assist : Şüpheli |S tok Depo Sayım | Fraud Abone Sorgu | Adis Arıza Takip |  Personel Özlük | Artech Dialer Progger & Area Test Simulator VoIP B2B | Telco Sippy -> Fatura Hazırlayıcı
+FiyatGÖR | Park Assist |  Stok Card Assist  |  ŞAŞ Assist : Şüpheli |S tok Depo Sayım | Fraud Abone Sorgu | Adis Arıza Takip |  Personel Özlük | Artech Dialer Progger & Area Test Simulator VoIP B2B | Telco Sippy -> Fatura Hazırlayıcı |
+CallShop Billing | OOBCS : Offline Online CallShop Billing Software | Stok Card Importer, 
 ANPR | PTS | HGS | RfId | MiFare
-
-
-OOBCS : Offline Online CallShop Billing Software
-
-CallShop
-Stok Card Importer, 
 
 
 - Bilişim Dünyasına Dair Yeteneklerim **EKLENECEK**
