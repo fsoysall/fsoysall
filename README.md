@@ -14,7 +14,27 @@
 
 <br>
 
----
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" **alt="C#" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="Core"**alt="Core" width="40" height="40"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostqreSql" **alt="PostqreSql" width="40" height="40"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MsSql" alt="MsSql" width="40" height="40"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap"  alt="Bootstrap" width="40" height="40"/>&nbsp;
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git"**alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" **alt="Canva" width="40" height="40"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+
+</div>
 
 <br>
 
@@ -23,15 +43,15 @@
 
  **Telekom Sektörü | TOTM** | Hastane Bilgi İşlem | Şeker Fabrikası | Kırtasiye Sektörü |  Türk Telekom | İnönü Üniversitesi
 
- **Telekomunikasyon | VoIP | Sippy** | Voice Master | **MediaGateway** | Mediatrix | LinkSYS | Cisco ATA  |  PAP2  | WellTech | Grand Stream | Sippy | Mediatrix | LinkSys | 
- 
+ **Telekomunikasyon | VoIP | Sippy** | Voice Master | **MediaGateway** | Mediatrix | LinkSYS | Cisco ATA  |  PAP2  | WellTech | Grand Stream | Sippy | Mediatrix | LinkSys |
+
  **| Elektronik | PIC  | PCB** | Foto Etteched PCB | Cihaz Geliştirme & Programlama & ARGE | MicroChip | Arduino | PicKit | TEES Elektronik | Ewba : Electronic WorkBench | Proteus | OrCad
 
-**C# | C++ | Vb.Net |** Delhpi | Pascal | JavaScript | Python | VbScript | GwBasic |  Quick Basic  | mAsm | TSR 
+**C# | C++ | Vb.Net |** Delhpi | Pascal | JavaScript | Python | VbScript | GwBasic |  Quick Basic  | mAsm | TSR
 Commodore-64 | LiNUX | Dos | Windows | IIS | Windows Server 2008 .. 2016 | Web Server |
 Dedicate Server
 
-IIS | HTML | CSS | SCss | JavaScript 
+IIS | HTML | CSS | SCss | JavaScript
 
 **MsSql | Firebird** | PostGre SQL | RAW TEXT | Typed Data Struct | JSON | XLS* | **Data Manuplation | Big Data Generation**
 
@@ -39,7 +59,6 @@ IIS | HTML | CSS | SCss | JavaScript
 CallShop Billing | OOBCS : Offline Online CallShop Billing Software | Stok Card Importer**
 
 **ANPR | PTS | HGS | RfId | MiFare**
-
 
 - Bilişim Dünyasına Dair Yeteneklerim **EKLENECEK**
 - Yazılım Dünyasına Dair Yeteneklerim **EKLENECEK**
