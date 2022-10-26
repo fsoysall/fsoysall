@@ -2,6 +2,8 @@
 ### **Bilgisayar Mühendisi, Yazılım, Elektronik, A.R.G.E. , Telekomünikasyon, VoIP**
 ---
 
+<br>
+
 ## **İŞ/STAJ DENEYİMİ:**
 
 - 2015 .. ~	MALATYA	Lojistik Destek, Danışmanlık Hizmetleri, Yazılım Geliştirme
