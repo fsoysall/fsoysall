@@ -1,10 +1,5 @@
-#
-
-# **Fatih SOYSAL**
-
-#### Bilgisayar & Yazılım Mühendisliği  
-
-#### A.R.G.E. , lektronik, Endüstriyel Elektronik, VoIP & Telekomünikasyon
+# **Fatih SOYSAL** ; 
+### **Bilgisayar Mühendisi, Yazılım, Elektronik, A.R.G.E. , Telekomünikasyon, VoIP**
 
 ---
 
