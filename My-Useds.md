@@ -16,12 +16,12 @@ TELEKOMUNIKASYON: Telekom Sektörü
  
 ## **DETAYLI İŞ/STAJ DENEYİMİ:**
 
-### STAJ : BİLGİ & İŞLEM
+### **STAJ : BİLGİ & İŞLEM**
 Türk Telekom A.Ş. Malatya İl Müdürlüğü : 1998 - MALATYA
 30..40 ticket girişinden sonra, Bilgi & İşlem biriminde çalışmalar yaptım. 
 İlgili Servis Yetkili'lerinin candan dostlukları ilerliyen yıllarda TT. Malatya İl Müdürlüğü için Yazılım Geliştirme’ye vesile oldu.
 
-### YAZILIM GELİŞTİRME, DANIŞMANLIK, DESTEK
+### **YAZILIM GELİŞTİRME, DANIŞMANLIK, DESTEK**
 Türk Telekom Malatya İl Müdürlüğü: 1998 .. 2004 - MALATYA 
 Türk Telekom Malatya Bilgi & İşlem Müdürlüğü için Malatya Türk Telekom’ca kullanılmak üzere 
  • Personel Özlük Asistanı, 
@@ -30,11 +30,11 @@ Türk Telekom Malatya Bilgi & İşlem Müdürlüğü için Malatya Türk Telekom
 •  Reklam Mail Gönderim Asistanı 
 Yazılımlarını  geliştirdim.
 
-### BİLGİ İŞLEM SORUMLUSU
+### **BİLGİ İŞLEM SORUMLUSU**
 Malatya Sigorta Hastanesi : 1999 .. 2000 - MALATYA
 Çözüm Hastane Otomasyonu Yönetim, Hastane Networking 
 
-### AR-GE, I.T. & YAZILIM MÜH. , ENDÜSTRİEL ELEKTRONİK
+### **AR-GE, I.T. & YAZILIM MÜH. , ENDÜSTRİEL ELEKTRONİK**
 TELEKOMUNİKASYON : 2004 -2014 - Ankara , İstanbul, Antalya, İzmir, Manisa, Malatya 
 Türkiyede bir ilk olan VoIP sektöründe hizmet veren firmalara & firmalarda, 
 •	Ürün Pazarlama , A.R.G.E. Ürün Geliştirme ve Ürün Yönetimi, Bayilere Eğitim, Müşteri Hizmetlerinin ve Teknik Birimin yetersiz kaldığı hususlarda Lojisik & Teknik Destek verdim, 
