@@ -3,7 +3,7 @@
 ---
 | | |
 |-|-|
-|[Kısa Oto Bio Grafi'm](https://github.com/fsoysall/fsoysall/blob/main/ My-Short-OtoBio.md ) |  [Full Oto Biografi'm](https://github.com/fsoysall/fsoysall/blob/main/About-Me-DETAILED.md) |
+|[Kısa Oto Bio Grafi'm](https://github.com/fsoysall/fsoysall/blob/main/My-Short-OtoBio.md ) |  [Full Oto Biografi'm](https://github.com/fsoysall/fsoysall/blob/main/About-Me-DETAILED.md) |
 |[Yeteneklerim](https://github.com/fsoysall/fsoysall/blob/main/My-Abilities.md) | [Deneyimlerim](https://github.com/fsoysall/fsoysall/blob/main/My-Useds.md ) |
 |[Proje Çalışmalarım](https://github.com/fsoysall/fsoysall/blob/main/My-Over-Workeds.md) ||
 
