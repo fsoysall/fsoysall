@@ -18,25 +18,27 @@
 
 <br>
 
- ŞKÖ Anadolu Teknik | İnönü Üni | AYU TURTEP  | 1st E-Öğrenci | MYO  |
- SSK  Bilgi İşlem | Türk Telekom Bilgi İşlem | RockTell | Kaya Telekom | Elkotek | BirCom | 
- TOTM | İnönü Üniversitesi | Hastane Bilgi İşlem | Şeker Fabrikası | Kırtasiye Sektörü | Telekom Sektörü | Türk Telekom | 
+ **ŞKÖ Anadolu Teknik | İnönü Üni | AYU TURTEP  | 1st E-Öğrenci** | MYO  |
+ SSK  Bilgi İşlem | Türk Telekom Bilgi İşlem  | **RockTell | Kaya Telekom | Elkotek | BirCom**
 
- | Telekomunikasyon | VoIP | Sippy | Voice Master | MediaGateway | Mediatrix | LinkSYS | Cisco ATA  |  PAP2  | WellTech | Grand Stream | Sippy | Mediatrix | LinkSys | 
+ **Telekom Sektörü | TOTM** | Hastane Bilgi İşlem | Şeker Fabrikası | Kırtasiye Sektörü |  Türk Telekom | İnönü Üniversitesi
+
+ **Telekomunikasyon | VoIP | Sippy** | Voice Master | **MediaGateway** | Mediatrix | LinkSYS | Cisco ATA  |  PAP2  | WellTech | Grand Stream | Sippy | Mediatrix | LinkSys | 
  
- | Elektronik | PIC  | PCB | Foto Etteched PCB | Cihaz Geliştirme & Programlama & ARGE | MicroChip | Arduino | PicKit | TEES Elektronik
+ **| Elektronik | PIC  | PCB** | Foto Etteched PCB | Cihaz Geliştirme & Programlama & ARGE | MicroChip | Arduino | PicKit | TEES Elektronik | Ewba : Electronic WorkBench | Proteus | OrCad
 
-C# | C++ | Vb.Net | Delhpi | Pascal | JavaScript | Python | VbScript | GwBasic |  Quick Basic  | mAsm | TSR 
+**C# | C++ | Vb.Net |** Delhpi | Pascal | JavaScript | Python | VbScript | GwBasic |  Quick Basic  | mAsm | TSR 
 Commodore-64 | LiNUX | Dos | Windows | IIS | Windows Server 2008 .. 2016 | Web Server |
 Dedicate Server
 
 IIS | HTML | CSS | SCss | JavaScript 
 
-MsSql | Firebird | PostGre SQL | RAW TEXT | Typed Data Struct | JSON | XLS* | Data Manuplation | Big Data Generation
+**MsSql | Firebird** | PostGre SQL | RAW TEXT | Typed Data Struct | JSON | XLS* | **Data Manuplation | Big Data Generation**
 
-FiyatGÖR | Park Assist |  Stok Card Assist  |  ŞAŞ Assist : Şüpheli |S tok Depo Sayım | Fraud Abone Sorgu | Adis Arıza Takip |  Personel Özlük | Artech Dialer Progger & Area Test Simulator VoIP B2B | Telco Sippy -> Fatura Hazırlayıcı |
-CallShop Billing | OOBCS : Offline Online CallShop Billing Software | Stok Card Importer, 
-ANPR | PTS | HGS | RfId | MiFare
+**FiyatGÖR | Park Assist |  Stok Card Assist  |  ŞAŞ Assist : Şüpheli |S tok Depo Sayım | Fraud Abone Sorgu | Adis Arıza Takip |  Personel Özlük | Artech Dialer Progger & Area Test Simulator VoIP B2B | Telco Sippy -> Fatura Hazırlayıcı |
+CallShop Billing | OOBCS : Offline Online CallShop Billing Software | Stok Card Importer**
+
+**ANPR | PTS | HGS | RfId | MiFare**
 
 
 - Bilişim Dünyasına Dair Yeteneklerim **EKLENECEK**
