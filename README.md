@@ -8,15 +8,13 @@
 
 ---
 
-<br>
-
 | | |
 |-|-|
 | - | [Kısa Oto Bio Grafi'm](https://github.com/fsoysall/fsoysall/blob/main/) |
 | - | [Oto Bio Grafi'm](https://github.com/fsoysall/fsoysall/blob/main/About-Me-DETAILED.md) |
-| - | [Yeteneklerim        ](https://github.com/fsoysall/fsoysall/blob/main/My-Abilities.md) |
-| - | [Tecrübelerim        ](https://github.com/fsoysall/fsoysall/blob/main/) |
-| - | [Proje Çalışmalarım  ](https://github.com/fsoysall/fsoysall/blob/main/My-Over-Workeds.md) |
+| - | [Yeteneklerim](https://github.com/fsoysall/fsoysall/blob/main/My-Abilities.md) |
+| - | [Tecrübelerim](https://github.com/fsoysall/fsoysall/blob/main/) |
+| - | [Proje Çalışmalarım](https://github.com/fsoysall/fsoysall/blob/main/My-Over-Workeds.md) |
 
 <br>
 
