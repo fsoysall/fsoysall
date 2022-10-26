@@ -1,6 +1,5 @@
 # **Fatih SOYSAL** ; 
-### **Bilgisayar Mühendisi, Yazılım, Elektronik**
-### **Yazılım , A.R.G.E. , Endüstriyel Elektronik, VoIP & Telekomünikasyon**
+### **Bilgisayar Mühendisi, Yazılım, Elektronik, A.R.G.E. , Telekomünikasyon, VoIP**
 ---
 - [Kısa Oto Bio Grafi'm](https://github.com/fsoysall/fsoysall/blob/main/) |
 - [Oto Bio Grafi'm](https://github.com/fsoysall/fsoysall/blob/main/About-Me-DETAILED.md) |
