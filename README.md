@@ -20,6 +20,22 @@
 
 <br>
 
+ İnönü Üni | AYU TURTEP  | 1st E-Öğrenci  MYO  |  SSK  Bilgi İşlem | Türk Telekom Bilgi İşlem
+ | Telekomunikasyon | VoIP | Sippy | Voice Master | MediaGateway | Mediatrix | LinkSYS | Cisco ATA  |  PAP2  | WellTech |
+ | Elektronik | PIC  | PCB | Foto Etteched PCB 
+
+ C# | C++ |
+
+FiyatGÖR | FiyatGÖR B2B |  Park Assist |  Stok Card Assist  |  ŞAŞ Assist : Şüpheli |S tok Depo Sayım | Fraud Abone Sorgu | Adis Arıza Takip |  Personel Özlük | Artech Dialer Progger & Area Test Simulator VoIP B2B | Telco Sippy -> Fatura Hazırlayıcı
+ANPR | PTS | HGS | RfId | MiFare
+
+
+OOBCS : Offline Online CallShop Billing Software
+
+CallShop
+Stok Card Importer, 
+
+
 - Bilişim Dünyasına Dair Yeteneklerim **EKLENECEK**
 - Yazılım Dünyasına Dair Yeteneklerim **EKLENECEK**
 - İşletim Sistemleri **EKLENECEK**
