@@ -1,5 +1,3 @@
-#
-
 # **Fatih SOYSAL**
 
 #### Bilgisayar & Yazılım Mühendisliği  
