@@ -14,7 +14,7 @@
  **ŞKÖ Anadolu Teknik | İnönü Üni | AYU TURTEP  | 1st E-Öğrenci** | MYO  |
  SSK  Bilgi İşlem | Türk Telekom Bilgi İşlem  | **RockTell | Kaya Telekom | Elkotek | BirCom**
 
- **Telekomunikasyon | TOTM** | Hastane Bilgi İşlem | Şeker Fabrikası | Kırtasiye Sektörü |  Türk Telekom | İnönü Üniversitesi |  **VoIP | Sippy** | Voice Master | **MediaGateway** | Mediatrix | LinkSYS | Cisco ATA  |  PAP2  | WellTech | Grand Stream | Sippy | Mediatrix | LinkSys |
+ **Telekomunikasyon | TOTM** | Hastane Bilgi İşlem | Şeker Fabrikası | Kırtasiye Sektörü |  Türk Telekom | İnönü Üniversitesi |  **VoIP | Sippy** | Voice Master | **MediaGateway** | Mediatrix | LinkSYS | Cisco ATA  |  PAP2  | WellTech | Grand Stream | Sippy | Mediatrix | LinkSys | Artech Dialer
 
  **| Elektronik | PIC  | PCB** | Foto Etteched PCB | Cihaz Geliştirme & Programlama & ARGE | MicroChip | Arduino | PicKit | TEES Elektronik | EWBA, EWBD | Proteus | MikroElektronika | ExpKits.com
 
