@@ -22,7 +22,7 @@
 Commodore-64 | LiNUX | Dos | Windows | IIS | Windows Server 2008 .. 2016 | Web Server |
 Dedicate Server
 
-**FiyatGÖR | Park Assist |  Stok Card Assist  |  ŞAŞ Assist : Şüpheli |S tok Depo Sayım | Fraud Abone Sorgu | Adis Arıza Takip |  Personel Özlük | Artech Dialer Progger & Area Test Simulator VoIP B2B | Telco Sippy -> Fatura Hazırlayıcı |
+**FiyatGÖR | Park Assist |  Stok Card Assist  |  ŞAŞ Assist : Şüpheli | Stok Depo Sayım | Fraud Abone Sorgu | Adis Arıza Takip |  Personel Özlük | Artech Dialer Progger & Area Test Simulator VoIP B2B | Telco Sippy -> Fatura Hazırlayıcı |
 CallShop Billing | OOBCS : Offline Online CallShop Billing Software | Stok Card Importer**
 
 <div>
