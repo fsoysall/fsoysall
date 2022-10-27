@@ -1,5 +1,7 @@
-# **Fatih SOYSAL** ; 
+# **Fatih SOYSAL**
+
 ### **Bilgisayar Mühendisi, Yazılım, Elektronik, A.R.G.E. , Telekomünikasyon, VoIP**
+
 ---
 | | |
 |-|-|
@@ -30,10 +32,10 @@ CallShop Billing | OOBCS : Offline Online CallShop Billing Software | Stok Card 
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MsSql" alt="MsSql" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
 </div>
 
@@ -41,21 +43,6 @@ IIS | HTML | CSS | SCss | JavaScript
 
 **MsSql | Firebird** | PostGre SQL | RAW TEXT | Typed Data Struct | JSON | XLS* | **Data Manuplation | Big Data Generation**
 
-
 AutoDesk , Office Editions, Linux , Windows, Win-Server , Mentor PADS | Micro Basic | Micro C# , Micro Pascal
 
-
 **ANPR | PTS | HGS | RfId | MiFare**
-
-
-- Bilişim Dünyasına Dair Yeteneklerim **EKLENECEK**
-- Yazılım Dünyasına Dair Yeteneklerim **EKLENECEK**
-- İşletim Sistemleri **EKLENECEK**
-- DB Sistemleri'ler **EKLENECEK**
-- Programla Dilleri **EKLENECEK**
-
-- Yapılan Projeler **EKLENECEK**
-- Deneyimler **EKLENECEK**
-- Tecrübeler **EKLENECEK**
-
-
