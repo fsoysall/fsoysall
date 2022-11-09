@@ -23,9 +23,11 @@
 | * | Vb.Net, .Net Basic | Windows , Visual Studio |
 | * | Delphi, Pascal | MsDos, Windows , Embarcadero |
 | * | n Basic | Basic Dili Varyasyonları : GwBasic, QBasic, QuickBasic EXTENDED, Commodore, MsDos, Windows  |
-| - | - | - |
+|  |  |  |
 | * | C++ | Dos , Linux, Windows, MicroChip, Arduino |
-| - | - | - |
+|  |  |  |
 | * | HTML, CSS | Dos , Linux, Windows, PIC |
+| * | JavaScript, VbScript | Text, Windows, MsDos |
 | * | ASPX, ASP | Windows, Vb.Net , C# Web Programlama |
+| * | Python | Windows, Basic Level |
 
