@@ -32,10 +32,18 @@
 | * | Python | Windows, Basic Level |
 
 ## **Kullandığım Program / Sistemler**
+* Ms Ofis Yazılımları ; Word, Excel, PowerPoint, Microsoft Outlook , OneNote,
 * Microsoft Ürünleri , windows,  Windows Server 2008 .. 2016
+* VmWare , Oracle Virtual Box
 * Visual Studio , Vb.Net , C# , Delphi IDE, DevExpress
 * Ms-SQL , firebird, PostGree SQL
-* Ms Ofis Yazılımları ; Word, Excel, PowerPoint, Microsoft Outlook , OneNote,
-* Arduino , MicroChip Studio
-* Ewba, Ewbd , Proteus, Mentor's PAD
+* Arduino  , MicroChip Studio
+
+* Proteus, Ewba, Ewbd , 
+* Mentor's PAD
+
 * AutoCAD, Ms Visio,
+
+* Eta, Netsim Ofisnet
+
+* Linux , Sippy, Voice Master, FreePBX, Elastic
