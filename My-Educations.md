@@ -31,3 +31,11 @@
 | * | ASPX, ASP | Windows, Vb.Net , C# Web Programlama |
 | * | Python | Windows, Basic Level |
 
+## **Kullandığım Program / Sistemler**
+* Microsoft Ürünleri , windows,  Windows Server 2008 .. 2016
+* Visual Studio , Vb.Net , C# , Delphi IDE, DevExpress
+* Ms-SQL , firebird, PostGree SQL
+* Ms Ofis Yazılımları ; Word, Excel, PowerPoint, Microsoft Outlook , OneNote,
+* Arduino , MicroChip Studio
+* Ewba, Ewbd , Proteus, Mentor's PAD
+* AutoCAD, Ms Visio,
